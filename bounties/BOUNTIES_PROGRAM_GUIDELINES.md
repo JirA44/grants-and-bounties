@@ -48,3 +48,6 @@ Once the bounty task is approved and assigned to an executor - it's ready to be 
 5. If deliverables reviewed and confirm - you will receive:
     - Bounty Reward (X$ paid in TON)
     - TON Bounty SBT
+
+
+dotnet add package TonSdk.NET --version 1.5.
