@@ -1,3 +1,13 @@
+## Français
+
+Dépôt de ressources de subventions et de bounties de l’écosystème TON. Exemple : consulter les opportunités et suivre les liens de candidature maintenus par le programme.
+
+## English
+
+Repository of grant and bounty resources for the TON ecosystem. Example: review opportunities and follow the application links maintained by the program.
+
+---
+
 <a href="https://ton.org/">
 	<img width="100%" src="/assets/cover.png" alt="TON Ecosystem" />
 </a>
